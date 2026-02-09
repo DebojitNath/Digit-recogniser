@@ -51,32 +51,41 @@ digit-recogniser/
 ## ⚙️ Installation & Setup
 
 
-# Clone repository
+Clone repository
 ```bash
 git clone https://github.com/DebojitNath/Digit-recogniser.git
 cd Digit-recogniser
 ```
 
-# Install dependencies
+Install dependencies
 ```
 pip install django==1.10
 ```
-# Apply migrations
+Apply migrations
 ```
 python manage.py migrate
 ```
-# Collect static files
+Collect static files
 ```
 python manage.py collectstatic --noinput
 ```
-# Run development server
+Run development server
 ```
 python manage.py runserver
 ```
-# Open your browser and navigate to:
+Open your browser and navigate to:
 ```
 http://127.0.0.1:8000/
 ```
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
 
 ## 🎯 Use Case
 
