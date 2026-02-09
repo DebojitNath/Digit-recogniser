@@ -21,7 +21,7 @@ A web-based application for recognizing handwritten digits using a Convolutional
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/DebojitNath/Digit-recogniser/)
    cd digit-recogniser
    ```
 
