@@ -50,24 +50,31 @@ digit-recogniser/
 
 ## ⚙️ Installation & Setup
 
-```bash
+
 # Clone repository
+```bash
 git clone https://github.com/DebojitNath/Digit-recogniser.git
 cd Digit-recogniser
+```
 
 # Install dependencies
+```
 pip install django==1.10
-
+```
 # Apply migrations
+```
 python manage.py migrate
-
+```
 # Collect static files
+```
 python manage.py collectstatic --noinput
-
+```
 # Run development server
+```
 python manage.py runserver
-
+```
 # Open your browser and navigate to:
+```
 http://127.0.0.1:8000/
 ```
 
