@@ -48,6 +48,8 @@ digit-recogniser/
 └── README.md
 ```
 
+---
+
 ## ⚙️ Installation & Setup
 
 
@@ -78,6 +80,8 @@ Open your browser and navigate to:
 http://127.0.0.1:8000/
 ```
 
+---
+
 ## 🌱 Contributing
 
 1. Fork the repository
@@ -86,6 +90,8 @@ http://127.0.0.1:8000/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+---
+
 ## 🤖 Model Details
 
 - **Architecture**: Convolutional Neural Network
@@ -93,6 +99,8 @@ http://127.0.0.1:8000/
 - **Input**: 28x28 grayscale images
 - **Output**: 10 classes (digits 0-9)
 - **Framework**: TensorFlow.js for browser-based inference
+
+---
 
 ## 🎯 Use Case
 
